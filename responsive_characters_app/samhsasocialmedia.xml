@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<response>
+<row>
+<row _id="1" _uuid="0DA6F9AB-7AA0-4D01-BDEB-7A0965507D29" _position="1" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/1">
+<date_start>2011-10-09T00:00:00</date_start>
+<date_end>2011-10-15T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>11885</fanmentions>
+</row>
+<row _id="2" _uuid="6EBFBE6A-1AEE-456D-8AF3-162BAEADE13A" _position="2" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/2">
+<date_start>2011-10-09T00:00:00</date_start>
+<date_end>2011-10-15T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>60</fanmentions>
+</row>
+<row _id="3" _uuid="58781ADE-AE7A-4766-B5BE-F69740E9CBC3" _position="3" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/3">
+<date_start>2011-10-09T00:00:00</date_start>
+<date_end>2011-10-15T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>22260</fanmentions>
+</row>
+<row _id="4" _uuid="B311B154-46EC-4805-854D-4874642368B4" _position="4" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/4">
+<date_start>2011-10-09T00:00:00</date_start>
+<date_end>2011-10-15T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>10375</fanmentions>
+</row>
+<row _id="5" _uuid="B114350E-B5D0-45D7-AA61-D9E478668079" _position="5" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/5">
+<date_start>2011-10-09T00:00:00</date_start>
+<date_end>2011-10-15T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>84</fanmentions>
+</row>
+<row _id="6" _uuid="86D2AB2E-EC2B-47B2-93C0-1E4307AFAE95" _position="6" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/6">
+<date_start>2011-10-09T00:00:00</date_start>
+<date_end>2011-10-15T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>8</fanmentions>
+</row>
+<row _id="7" _uuid="9283A841-61AC-4C8E-A343-CD70FAD23312" _position="7" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/7">
+<date_start>2011-10-09T00:00:00</date_start>
+<date_end>2011-10-15T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>7</fanmentions>
+</row>
+<row _id="8" _uuid="388B3099-2800-4F47-8515-C40B7DF17377" _position="8" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/8">
+<date_start>2011-10-09T00:00:00</date_start>
+<date_end>2011-10-15T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>84</fanmentions>
+</row>
+<row _id="10" _uuid="A39CC773-E6D7-4AB7-97B3-E139153AB093" _position="10" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/10">
+<date_start>2011-10-16T00:00:00</date_start>
+<date_end>2011-10-22T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>88</fanmentions>
+</row>
+<row _id="11" _uuid="F7D3D1B4-9A74-437C-925C-F12751CA8E31" _position="11" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/11">
+<date_start>2011-10-16T00:00:00</date_start>
+<date_end>2011-10-22T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>22628</fanmentions>
+</row>
+<row _id="12" _uuid="8351101A-8A9D-4863-9C23-DBBB1F82567A" _position="12" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/12">
+<date_start>2011-10-16T00:00:00</date_start>
+<date_end>2011-10-22T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>10616</fanmentions>
+</row>
+<row _id="13" _uuid="D18FA236-FAA8-4B59-88A5-8F03063487D7" _position="13" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/13">
+<date_start>2011-10-16T00:00:00</date_start>
+<date_end>2011-10-22T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>68</fanmentions>
+</row>
+<row _id="14" _uuid="8B3AD93F-D86F-410D-81CC-BC3E53FFA25E" _position="14" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/14">
+<date_start>2011-10-16T00:00:00</date_start>
+<date_end>2011-10-22T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>8</fanmentions>
+</row>
+<row _id="15" _uuid="FEFC34BB-AC75-472B-A9D5-3E180CD00E26" _position="15" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/15">
+<date_start>2011-10-16T00:00:00</date_start>
+<date_end>2011-10-22T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>202</fanmentions>
+</row>
+<row _id="16" _uuid="4E5554D6-E56D-4FD3-8067-9944B89FADD0" _position="16" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/16">
+<date_start>2011-10-16T00:00:00</date_start>
+<date_end>2011-10-22T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>18</fanmentions>
+</row>
+<row _id="18" _uuid="ED769A1D-33BF-4C3B-8999-A95A4376C53F" _position="18" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/18">
+<date_start>2011-10-16T00:00:00</date_start>
+<date_end>2011-10-22T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>12012</fanmentions>
+</row>
+<row _id="19" _uuid="B396AA97-EB7D-4FD7-A164-BB0607E23C8B" _position="19" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/19">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>12113</fanmentions>
+</row>
+<row _id="20" _uuid="87955437-FED7-40F9-8417-694E9A397B85" _position="20" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/20">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>123</fanmentions>
+</row>
+<row _id="21" _uuid="1EB98997-B1A1-4423-81C5-8B61B529A1A0" _position="21" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/21">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>22911</fanmentions>
+</row>
+<row _id="22" _uuid="4B4C1646-3513-4BAD-9F56-B464B4E86AA0" _position="22" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/22">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>10798</fanmentions>
+</row>
+<row _id="23" _uuid="C700C6D3-AD44-4F7A-95AC-7BEFBD4C5C25" _position="23" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/23">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>122</fanmentions>
+</row>
+<row _id="24" _uuid="6ADD2066-6AC2-4437-9654-8F77796E1267" _position="24" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/24">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>13</fanmentions>
+</row>
+<row _id="25" _uuid="24F3ABD0-4E79-43D5-846E-F6E5AB785CF4" _position="25" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/25">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>111</fanmentions>
+</row>
+<row _id="26" _uuid="DD03DF2F-4E2E-491B-98D1-C08D9F6C4A1F" _position="26" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/26">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>12</fanmentions>
+</row>
+<row _id="28" _uuid="B63D950B-96D7-4CA7-BF26-8CAB3CA9D765" _position="28" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/28">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>12113</fanmentions>
+</row>
+<row _id="29" _uuid="51EB8986-44C4-424E-89FD-E1AADDF63C60" _position="29" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/29">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>123</fanmentions>
+</row>
+<row _id="30" _uuid="FCEB36F6-279E-488B-90EF-6BFBD0235396" _position="30" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/30">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>22911</fanmentions>
+</row>
+<row _id="31" _uuid="1E851861-1ABC-49A4-AE6C-DE66E7C5E03D" _position="31" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/31">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>10798</fanmentions>
+</row>
+<row _id="32" _uuid="5E90ADB2-9829-440D-AA1E-7EDB5B0ED478" _position="32" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/32">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>122</fanmentions>
+</row>
+<row _id="33" _uuid="2EA76EAD-4D81-45CF-9039-19DB9678459D" _position="33" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/33">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>13</fanmentions>
+</row>
+<row _id="34" _uuid="D207CD2F-FAEF-4BEB-8326-F47D40725756" _position="34" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/34">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>111</fanmentions>
+</row>
+<row _id="35" _uuid="958BD627-15CA-4D8C-B103-2DE75467BC48" _position="35" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/35">
+<date_start>2011-10-23T00:00:00</date_start>
+<date_end>2011-10-29T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>12</fanmentions>
+</row>
+<row _id="37" _uuid="72649D75-1D6F-403F-851A-DD9E5DDEC8F0" _position="37" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/37">
+<date_start>2011-10-30T00:00:00</date_start>
+<date_end>2011-11-05T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>12107</fanmentions>
+</row>
+<row _id="38" _uuid="0395B355-B72D-45EB-9D79-C0A81FC75C34" _position="38" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/38">
+<date_start>2011-10-30T00:00:00</date_start>
+<date_end>2011-11-05T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>62</fanmentions>
+</row>
+<row _id="39" _uuid="E5620CA4-EEBB-4ED1-9FC4-7305446D9002" _position="39" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/39">
+<date_start>2011-10-30T00:00:00</date_start>
+<date_end>2011-11-05T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>22895</fanmentions>
+</row>
+<row _id="40" _uuid="C1ED3810-49BB-4A81-BD91-93213ADF82E5" _position="40" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/40">
+<date_start>2011-10-30T00:00:00</date_start>
+<date_end>2011-11-05T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>10788</fanmentions>
+</row>
+<row _id="41" _uuid="40FD7EEB-DA25-4643-9997-8820A6A5640A" _position="41" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/41">
+<date_start>2011-10-30T00:00:00</date_start>
+<date_end>2011-11-05T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>174</fanmentions>
+</row>
+<row _id="42" _uuid="CD5F7C32-EEE6-4FE0-9826-889C8161C086" _position="42" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/42">
+<date_start>2011-10-30T00:00:00</date_start>
+<date_end>2011-11-05T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>24</fanmentions>
+</row>
+<row _id="43" _uuid="9862F071-19BA-4C53-830B-85746EF72A1E" _position="43" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/43">
+<date_start>2011-10-30T00:00:00</date_start>
+<date_end>2011-11-05T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>2</fanmentions>
+</row>
+<row _id="44" _uuid="A07765E9-A904-45BF-B3E4-23DA35C17D2F" _position="44" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/44">
+<date_start>2011-10-30T00:00:00</date_start>
+<date_end>2011-11-05T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>8</fanmentions>
+</row>
+<row _id="46" _uuid="168CE245-053E-41FB-9EB9-081956FDAF75" _position="46" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/46">
+<date_start>2011-11-06T00:00:00</date_start>
+<date_end>2011-11-12T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>12193</fanmentions>
+</row>
+<row _id="47" _uuid="06263C4B-1DC9-4F6D-9B08-A079717874D3" _position="47" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/47">
+<date_start>2011-11-06T00:00:00</date_start>
+<date_end>2011-11-12T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>62</fanmentions>
+</row>
+<row _id="48" _uuid="431AEB9B-1D8A-4DAE-8172-997732241190" _position="48" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/48">
+<date_start>2011-11-06T00:00:00</date_start>
+<date_end>2011-11-12T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>23155</fanmentions>
+</row>
+<row _id="49" _uuid="DA3CFE37-BA7B-4E7C-A9F6-718E9B61A17E" _position="49" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/49">
+<date_start>2011-11-06T00:00:00</date_start>
+<date_end>2011-11-12T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>10962</fanmentions>
+</row>
+<row _id="50" _uuid="16A05CFC-21A4-40AD-A6B4-02B48268E646" _position="50" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/50">
+<date_start>2011-11-06T00:00:00</date_start>
+<date_end>2011-11-12T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>160</fanmentions>
+</row>
+<row _id="51" _uuid="BA1B3B8A-A41F-40DA-9D31-519D935AF963" _position="51" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/51">
+<date_start>2011-11-06T00:00:00</date_start>
+<date_end>2011-11-12T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>23</fanmentions>
+</row>
+<row _id="52" _uuid="2DE814D0-CD29-477A-ADF8-D4CBDCD846B5" _position="52" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/52">
+<date_start>2011-11-06T00:00:00</date_start>
+<date_end>2011-11-12T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>7</fanmentions>
+</row>
+<row _id="53" _uuid="B4B7055A-0522-4254-939B-C9252177DFCB" _position="53" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/53">
+<date_start>2011-11-06T00:00:00</date_start>
+<date_end>2011-11-12T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>131</fanmentions>
+</row>
+<row _id="55" _uuid="A3FD153A-6605-4F84-A2DE-DA084D20AD87" _position="55" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/55">
+<date_start>2011-11-13T00:00:00</date_start>
+<date_end>2011-11-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>12321</fanmentions>
+</row>
+<row _id="56" _uuid="8CAEF666-ADA1-43F9-833F-7CEDDF5C8689" _position="56" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/56">
+<date_start>2011-11-13T00:00:00</date_start>
+<date_end>2011-11-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>42</fanmentions>
+</row>
+<row _id="57" _uuid="94DCCB2E-795B-4E3E-8F43-F7F03D2CD995" _position="57" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/57">
+<date_start>2011-11-13T00:00:00</date_start>
+<date_end>2011-11-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>23467</fanmentions>
+</row>
+<row _id="58" _uuid="C122BDAE-A332-4B4A-8B31-F52F4FC3A8F3" _position="58" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/58">
+<date_start>2011-11-13T00:00:00</date_start>
+<date_end>2011-11-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>11146</fanmentions>
+</row>
+<row _id="59" _uuid="AD5C88B3-435B-4083-A843-8EE3D664EAED" _position="59" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/59">
+<date_start>2011-11-13T00:00:00</date_start>
+<date_end>2011-11-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>492</fanmentions>
+</row>
+<row _id="60" _uuid="28FB993E-9F66-46EF-9100-898D35EB7DAC" _position="60" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/60">
+<date_start>2011-11-13T00:00:00</date_start>
+<date_end>2011-11-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>11</fanmentions>
+</row>
+<row _id="61" _uuid="912CD91B-B162-452D-B18D-847404D484FF" _position="61" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/61">
+<date_start>2011-11-13T00:00:00</date_start>
+<date_end>2011-11-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>55</fanmentions>
+</row>
+<row _id="62" _uuid="E8014DFF-B810-40E4-A735-DB691E5AA060" _position="62" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/62">
+<date_start>2011-11-13T00:00:00</date_start>
+<date_end>2011-11-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>8</fanmentions>
+</row>
+<row _id="64" _uuid="A70A6253-5C93-43DE-ACCD-04E67AC61757" _position="64" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/64">
+<date_start>2011-11-20T00:00:00</date_start>
+<date_end>2011-11-26T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>12445</fanmentions>
+</row>
+<row _id="65" _uuid="193587DB-CFCC-4A4A-8DA0-3CC23F14F338" _position="65" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/65">
+<date_start>2011-11-20T00:00:00</date_start>
+<date_end>2011-11-26T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>42</fanmentions>
+</row>
+<row _id="66" _uuid="AB770EF8-DE05-4C2C-8059-5614A636ECC6" _position="66" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/66">
+<date_start>2011-11-20T00:00:00</date_start>
+<date_end>2011-11-26T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>23764</fanmentions>
+</row>
+<row _id="67" _uuid="FA60DBDD-B343-4E82-BD0E-6793D0CBF355" _position="67" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/67">
+<date_start>2011-11-20T00:00:00</date_start>
+<date_end>2011-11-26T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>11319</fanmentions>
+</row>
+<row _id="68" _uuid="3AA90AB7-A972-4D61-B9E0-8D7DA12F894B" _position="68" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/68">
+<date_start>2011-11-20T00:00:00</date_start>
+<date_end>2011-11-26T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>277</fanmentions>
+</row>
+<row _id="69" _uuid="B4ADD249-C895-41E3-BDAF-660959F424F5" _position="69" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/69">
+<date_start>2011-11-20T00:00:00</date_start>
+<date_end>2011-11-26T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>8</fanmentions>
+</row>
+<row _id="70" _uuid="4903930B-F944-4610-87C8-4BF5E4650347" _position="70" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/70">
+<date_start>2011-11-20T00:00:00</date_start>
+<date_end>2011-11-26T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>91</fanmentions>
+</row>
+<row _id="71" _uuid="6E0C1F1C-BC7C-4388-BFBF-19EA2F7A0BE0" _position="71" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/71">
+<date_start>2011-11-20T00:00:00</date_start>
+<date_end>2011-11-26T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>9</fanmentions>
+</row>
+<row _id="73" _uuid="B06A8C66-F4CD-4101-940C-7153EC6CD0B9" _position="73" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/73">
+<date_start>2011-11-27T00:00:00</date_start>
+<date_end>2011-12-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>12507</fanmentions>
+</row>
+<row _id="74" _uuid="A162822F-E5B5-4CDB-8047-75CDAD6B7D8E" _position="74" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/74">
+<date_start>2011-11-27T00:00:00</date_start>
+<date_end>2011-12-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>26</fanmentions>
+</row>
+<row _id="75" _uuid="27E10ABF-498C-4FFD-BFD7-D088FB791440" _position="75" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/75">
+<date_start>2011-11-27T00:00:00</date_start>
+<date_end>2011-12-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>23943</fanmentions>
+</row>
+<row _id="76" _uuid="6C0D44B8-F801-4710-A171-0487D706B948" _position="76" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/76">
+<date_start>2011-11-27T00:00:00</date_start>
+<date_end>2011-12-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>11436</fanmentions>
+</row>
+<row _id="77" _uuid="8DD6C476-E576-42F1-B48F-B9CEF579A5BF" _position="77" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/77">
+<date_start>2011-11-27T00:00:00</date_start>
+<date_end>2011-12-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>295</fanmentions>
+</row>
+<row _id="78" _uuid="A61F4AB6-96D8-4070-ADAA-CEDDEE46FF82" _position="78" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/78">
+<date_start>2011-11-27T00:00:00</date_start>
+<date_end>2011-12-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>11</fanmentions>
+</row>
+<row _id="79" _uuid="E3E4907F-34E3-4DFF-BEB7-84D3933A53FD" _position="79" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/79">
+<date_start>2011-11-27T00:00:00</date_start>
+<date_end>2011-12-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>5</fanmentions>
+</row>
+<row _id="80" _uuid="37782FFF-11D1-432A-B9F6-298A33C440B5" _position="80" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/80">
+<date_start>2011-11-27T00:00:00</date_start>
+<date_end>2011-12-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>48</fanmentions>
+</row>
+<row _id="82" _uuid="E84684FD-4316-4E56-97CB-0D9A28D1312D" _position="82" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/82">
+<date_start>2011-12-04T00:00:00</date_start>
+<date_end>2011-12-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>12590</fanmentions>
+</row>
+<row _id="83" _uuid="4ECABC8C-9F0C-4A71-BB2B-7A393A7D31A4" _position="83" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/83">
+<date_start>2011-12-04T00:00:00</date_start>
+<date_end>2011-12-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>24</fanmentions>
+</row>
+<row _id="84" _uuid="FF35E901-FA13-471C-87E4-3E7B31BC07AF" _position="84" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/84">
+<date_start>2011-12-04T00:00:00</date_start>
+<date_end>2011-12-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>24176</fanmentions>
+</row>
+<row _id="85" _uuid="4719F14B-294A-42C1-8116-ED9900CD48B8" _position="85" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/85">
+<date_start>2011-12-04T00:00:00</date_start>
+<date_end>2011-12-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>11586</fanmentions>
+</row>
+<row _id="86" _uuid="FBEFEE21-9D53-4BEE-BBB4-CD8FC2F3B06D" _position="86" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/86">
+<date_start>2011-12-04T00:00:00</date_start>
+<date_end>2011-12-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>247</fanmentions>
+</row>
+<row _id="87" _uuid="2B52CDE1-A05E-4F52-9743-42BBF2F2F15E" _position="87" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/87">
+<date_start>2011-12-04T00:00:00</date_start>
+<date_end>2011-12-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>9</fanmentions>
+</row>
+<row _id="88" _uuid="7189D86D-5133-48A3-A07E-00D39744CA7F" _position="88" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/88">
+<date_start>2011-12-04T00:00:00</date_start>
+<date_end>2011-12-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>44</fanmentions>
+</row>
+<row _id="89" _uuid="7F7DCF0F-DF72-4163-AE1B-7C4B82C66663" _position="89" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/89">
+<date_start>2011-12-04T00:00:00</date_start>
+<date_end>2011-12-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>7</fanmentions>
+</row>
+<row _id="91" _uuid="380A2668-3074-4DD5-ABD4-A41F12BF0E31" _position="91" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/91">
+<date_start>2011-12-11T00:00:00</date_start>
+<date_end>2011-12-17T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>11945</fanmentions>
+</row>
+<row _id="92" _uuid="A1A8A36E-60A9-4941-930E-F4DBDAADF71A" _position="92" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/92">
+<date_start>2011-12-11T00:00:00</date_start>
+<date_end>2011-12-17T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>24922</fanmentions>
+</row>
+<row _id="93" _uuid="C0AE47DB-5130-43CE-8C8E-3900E8A0F061" _position="93" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/93">
+<date_start>2011-12-11T00:00:00</date_start>
+<date_end>2011-12-17T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>12977</fanmentions>
+</row>
+<row _id="94" _uuid="3E78E011-0FDD-49E6-97D8-587A047284C1" _position="94" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/94">
+<date_start>2011-12-11T00:00:00</date_start>
+<date_end>2011-12-17T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>59</fanmentions>
+</row>
+<row _id="95" _uuid="1A51F809-6460-45EC-A390-12997A44AA9F" _position="95" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/95">
+<date_start>2011-12-11T00:00:00</date_start>
+<date_end>2011-12-17T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>663</fanmentions>
+</row>
+<row _id="96" _uuid="3222072C-DFE8-465D-97CC-21F10E02F06E" _position="96" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/96">
+<date_start>2011-12-11T00:00:00</date_start>
+<date_end>2011-12-17T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>166</fanmentions>
+</row>
+<row _id="97" _uuid="809EBF1A-B78E-4AE5-84F1-6E54547B73BF" _position="97" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/97">
+<date_start>2011-12-11T00:00:00</date_start>
+<date_end>2011-12-17T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>5</fanmentions>
+</row>
+<row _id="98" _uuid="A7FC572D-FF51-43CE-9632-9FF1630525A6" _position="98" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/98">
+<date_start>2011-12-11T00:00:00</date_start>
+<date_end>2011-12-17T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>5</fanmentions>
+</row>
+<row _id="100" _uuid="D36B24A7-E883-4488-A009-C11EC8E8FC03" _position="100" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/100">
+<date_start>2011-12-18T00:00:00</date_start>
+<date_end>2011-12-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>13094</fanmentions>
+</row>
+<row _id="101" _uuid="D50F37E5-21B0-4398-843F-81724A7BB4C1" _position="101" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/101">
+<date_start>2011-12-18T00:00:00</date_start>
+<date_end>2011-12-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>12091</fanmentions>
+</row>
+<row _id="102" _uuid="0D53538F-2EE4-424A-AB69-7719960A5930" _position="102" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/102">
+<date_start>2011-12-18T00:00:00</date_start>
+<date_end>2011-12-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>40</fanmentions>
+</row>
+<row _id="103" _uuid="9907E240-01E1-480F-8645-E22E30820BE4" _position="103" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/103">
+<date_start>2011-12-18T00:00:00</date_start>
+<date_end>2011-12-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>25185</fanmentions>
+</row>
+<row _id="104" _uuid="340BB1A9-9B5B-4EE7-9F47-A18710C0E049" _position="104" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/104">
+<date_start>2011-12-18T00:00:00</date_start>
+<date_end>2011-12-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>480</fanmentions>
+</row>
+<row _id="105" _uuid="C1AECA81-4884-44E9-94F6-91D47B49882B" _position="105" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/105">
+<date_start>2011-12-18T00:00:00</date_start>
+<date_end>2011-12-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>86</fanmentions>
+</row>
+<row _id="106" _uuid="C1D928FD-0C5A-47C9-9CB4-EEBF2AC868E1" _position="106" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/106">
+<date_start>2011-12-18T00:00:00</date_start>
+<date_end>2011-12-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>2</fanmentions>
+</row>
+<row _id="107" _uuid="FA41FD43-AD68-441B-B03D-127E76138513" _position="107" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/107">
+<date_start>2011-12-18T00:00:00</date_start>
+<date_end>2011-12-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>4</fanmentions>
+</row>
+<row _id="181" _uuid="BFE1C4EE-25A3-474D-909B-34313A77F7B8" _position="181" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/181">
+<date_start>2011-12-25T00:00:00</date_start>
+<date_end>2011-12-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>13174</fanmentions>
+</row>
+<row _id="182" _uuid="38F19569-9768-4968-85E6-C2CBC0E12FBC" _position="182" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/182">
+<date_start>2011-12-25T00:00:00</date_start>
+<date_end>2011-12-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>12245</fanmentions>
+</row>
+<row _id="183" _uuid="AA184CD8-37E4-4A78-8F68-4785D3CC5686" _position="183" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/183">
+<date_start>2011-12-25T00:00:00</date_start>
+<date_end>2011-12-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>26</fanmentions>
+</row>
+<row _id="184" _uuid="ED27F5B3-9347-4B92-B13D-03739AEE11B4" _position="184" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/184">
+<date_start>2011-12-25T00:00:00</date_start>
+<date_end>2011-12-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>25419</fanmentions>
+</row>
+<row _id="185" _uuid="2785B5B0-FCB3-40FC-9C59-82979A66C92C" _position="185" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/185">
+<date_start>2011-12-25T00:00:00</date_start>
+<date_end>2011-12-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>434</fanmentions>
+</row>
+<row _id="186" _uuid="25A580B0-EDFC-4799-B7E4-40FABA00C290" _position="186" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/186">
+<date_start>2011-12-25T00:00:00</date_start>
+<date_end>2011-12-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>1</fanmentions>
+</row>
+<row _id="187" _uuid="22FAA7AF-E09A-4F67-8674-EAD94B62A755" _position="187" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/187">
+<date_start>2011-12-25T00:00:00</date_start>
+<date_end>2011-12-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>41</fanmentions>
+</row>
+<row _id="188" _uuid="7D7532F3-3AE7-48C8-AB80-2C0A693F47CA" _position="188" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/188">
+<date_start>2011-12-25T00:00:00</date_start>
+<date_end>2011-12-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>4</fanmentions>
+</row>
+<row _id="190" _uuid="2EB3E6FA-5E99-4DEA-A2A6-75130E9D0A8C" _position="190" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/190">
+<date_start>2012-01-01T00:00:00</date_start>
+<date_end>2012-01-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>19</fanmentions>
+</row>
+<row _id="191" _uuid="FCA9114C-76B3-4E35-B558-A621D492B676" _position="191" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/191">
+<date_start>2012-01-01T00:00:00</date_start>
+<date_end>2012-01-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>12376</fanmentions>
+</row>
+<row _id="192" _uuid="FA3BB300-7B24-477D-BD52-6E96578A0A62" _position="192" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/192">
+<date_start>2012-01-01T00:00:00</date_start>
+<date_end>2012-01-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>13266</fanmentions>
+</row>
+<row _id="193" _uuid="3D3831CF-0041-4DCA-BCDB-D0FC0921AB4C" _position="193" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/193">
+<date_start>2012-01-01T00:00:00</date_start>
+<date_end>2012-01-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>333</fanmentions>
+</row>
+<row _id="194" _uuid="16D44997-B716-4DBF-863E-78B84A78656E" _position="194" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/194">
+<date_start>2012-01-01T00:00:00</date_start>
+<date_end>2012-01-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>25642</fanmentions>
+</row>
+<row _id="195" _uuid="08FF77BE-8690-41C0-8DB7-73885684EC8B" _position="195" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/195">
+<date_start>2012-01-01T00:00:00</date_start>
+<date_end>2012-01-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>44</fanmentions>
+</row>
+<row _id="196" _uuid="427407A3-16BA-493C-AABA-E0FAE5CE47C4" _position="196" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/196">
+<date_start>2012-01-01T00:00:00</date_start>
+<date_end>2012-01-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>3</fanmentions>
+</row>
+<row _id="197" _uuid="9756B189-B70F-4A76-B1B4-E681BA4B772D" _position="197" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/197">
+<date_start>2012-01-01T00:00:00</date_start>
+<date_end>2012-01-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>3</fanmentions>
+</row>
+<row _id="199" _uuid="D052210E-2961-4778-986E-BAFE458912C8" _position="199" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/199">
+<date_start>2012-01-08T00:00:00</date_start>
+<date_end>2012-01-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>12549</fanmentions>
+</row>
+<row _id="200" _uuid="DE11B158-B9FE-4F84-A2D1-E003A3A3A25A" _position="200" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/200">
+<date_start>2012-01-08T00:00:00</date_start>
+<date_end>2012-01-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>25925</fanmentions>
+</row>
+<row _id="201" _uuid="BFCFD21D-4699-4DBF-903C-47C9283A721A" _position="201" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/201">
+<date_start>2012-01-08T00:00:00</date_start>
+<date_end>2012-01-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>422</fanmentions>
+</row>
+<row _id="202" _uuid="B73225A2-9920-4DF2-8027-198E91DD1A52" _position="202" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/202">
+<date_start>2012-01-08T00:00:00</date_start>
+<date_end>2012-01-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>24</fanmentions>
+</row>
+<row _id="203" _uuid="A46FD214-A4F2-4BEE-9AFD-A5253337DBBE" _position="203" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/203">
+<date_start>2012-01-08T00:00:00</date_start>
+<date_end>2012-01-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>13376</fanmentions>
+</row>
+<row _id="204" _uuid="A2D61369-D14C-47F0-A9DF-3735E6EA1967" _position="204" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/204">
+<date_start>2012-01-08T00:00:00</date_start>
+<date_end>2012-01-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>19</fanmentions>
+</row>
+<row _id="205" _uuid="08E28AE4-6494-4C11-AAF7-020AC2E1D854" _position="205" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/205">
+<date_start>2012-01-08T00:00:00</date_start>
+<date_end>2012-01-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>3</fanmentions>
+</row>
+<row _id="206" _uuid="5EC1689C-2220-4E6B-83A0-44811FE138C2" _position="206" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/206">
+<date_start>2012-01-08T00:00:00</date_start>
+<date_end>2012-01-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>249</fanmentions>
+</row>
+<row _id="208" _uuid="4A13E73B-F1BC-4959-BE16-A30B53236E36" _position="208" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/208">
+<date_start>2012-01-22T00:00:00</date_start>
+<date_end>2012-01-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>13634</fanmentions>
+</row>
+<row _id="209" _uuid="9B54742D-7074-4779-A471-69D2C3B0CCE8" _position="209" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/209">
+<date_start>2012-01-22T00:00:00</date_start>
+<date_end>2012-01-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>12948</fanmentions>
+</row>
+<row _id="210" _uuid="D14DF695-B108-417A-8B95-0F519B15BBBD" _position="210" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/210">
+<date_start>2012-01-22T00:00:00</date_start>
+<date_end>2012-01-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>26582</fanmentions>
+</row>
+<row _id="211" _uuid="7603B745-A3F9-42DD-B5C9-E37DD8186879" _position="211" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/211">
+<date_start>2012-01-22T00:00:00</date_start>
+<date_end>2012-01-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>42</fanmentions>
+</row>
+<row _id="212" _uuid="2B1743B5-D004-4325-B86E-A5F3F41D87A9" _position="212" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/212">
+<date_start>2012-01-22T00:00:00</date_start>
+<date_end>2012-01-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>412</fanmentions>
+</row>
+<row _id="213" _uuid="C966557F-37C7-4BBC-BA49-668450CCB10A" _position="213" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/213">
+<date_start>2012-01-22T00:00:00</date_start>
+<date_end>2012-01-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>2</fanmentions>
+</row>
+<row _id="214" _uuid="FE37DE27-A86E-42F5-80DE-F900A27511DE" _position="214" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/214">
+<date_start>2012-01-22T00:00:00</date_start>
+<date_end>2012-01-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>5</fanmentions>
+</row>
+<row _id="215" _uuid="D02B6FD7-5606-4666-824F-FAFF2E51FF8A" _position="215" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/215">
+<date_start>2012-01-22T00:00:00</date_start>
+<date_end>2012-01-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>126</fanmentions>
+</row>
+<row _id="217" _uuid="06164A12-32DA-4C4F-A9DA-3C042D9FB560" _position="217" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/217">
+<date_start>2012-02-05T00:00:00</date_start>
+<date_end>2012-02-11T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>13869</fanmentions>
+</row>
+<row _id="218" _uuid="EFB385AB-BB5A-42E4-B3CE-3B646EBEF79D" _position="218" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/218">
+<date_start>2012-02-05T00:00:00</date_start>
+<date_end>2012-02-11T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>27277</fanmentions>
+</row>
+<row _id="219" _uuid="A79A08EB-8C05-42CE-B780-0F26827190D3" _position="219" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/219">
+<date_start>2012-02-05T00:00:00</date_start>
+<date_end>2012-02-11T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>13408</fanmentions>
+</row>
+<row _id="220" _uuid="C22A3948-E510-49F2-B35D-068677B273B7" _position="220" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/220">
+<date_start>2012-02-05T00:00:00</date_start>
+<date_end>2012-02-11T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>584</fanmentions>
+</row>
+<row _id="221" _uuid="E1F96663-C5A9-466B-BE46-1AAA02B4CC45" _position="221" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/221">
+<date_start>2012-02-05T00:00:00</date_start>
+<date_end>2012-02-11T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>50</fanmentions>
+</row>
+<row _id="222" _uuid="41B5B718-AC4F-4CB1-A53E-CBDE694CC646" _position="222" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/222">
+<date_start>2012-02-05T00:00:00</date_start>
+<date_end>2012-02-11T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>20</fanmentions>
+</row>
+<row _id="223" _uuid="78028846-62A6-4F8D-AD8A-49138C995314" _position="223" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/223">
+<date_start>2012-02-05T00:00:00</date_start>
+<date_end>2012-02-11T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>8</fanmentions>
+</row>
+<row _id="224" _uuid="283CDE26-12F4-446A-8B7C-419D5923072E" _position="224" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/224">
+<date_start>2012-02-05T00:00:00</date_start>
+<date_end>2012-02-11T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>176</fanmentions>
+</row>
+<row _id="226" _uuid="254126A4-1D30-4684-80B1-E1D3C4E9CFB9" _position="226" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/226">
+<date_start>2012-02-19T00:00:00</date_start>
+<date_end>2012-02-25T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>13778</fanmentions>
+</row>
+<row _id="227" _uuid="8A9D0283-EF68-4C75-97FE-18840C6CF877" _position="227" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/227">
+<date_start>2012-02-19T00:00:00</date_start>
+<date_end>2012-02-25T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>14086</fanmentions>
+</row>
+<row _id="228" _uuid="2511C69A-7CDB-4F5E-A236-D6F6FD7965FB" _position="228" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/228">
+<date_start>2012-02-19T00:00:00</date_start>
+<date_end>2012-02-25T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>27864</fanmentions>
+</row>
+<row _id="229" _uuid="7F1322C0-6F94-43F9-B5F4-138CB599E016" _position="229" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/229">
+<date_start>2012-02-19T00:00:00</date_start>
+<date_end>2012-02-25T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>401</fanmentions>
+</row>
+<row _id="230" _uuid="6C576D41-5535-4883-B62E-3CC2778AE950" _position="230" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/230">
+<date_start>2012-02-19T00:00:00</date_start>
+<date_end>2012-02-25T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>46</fanmentions>
+</row>
+<row _id="231" _uuid="9FECA4C1-0A41-4102-8267-15976CF120B5" _position="231" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/231">
+<date_start>2012-02-19T00:00:00</date_start>
+<date_end>2012-02-25T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>10</fanmentions>
+</row>
+<row _id="232" _uuid="027CFEFE-D440-445D-B8D8-677D67A6C137" _position="232" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/232">
+<date_start>2012-02-19T00:00:00</date_start>
+<date_end>2012-02-25T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>4</fanmentions>
+</row>
+<row _id="233" _uuid="207514CB-6737-4B47-B520-8578D059F605" _position="233" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/233">
+<date_start>2012-02-19T00:00:00</date_start>
+<date_end>2012-02-25T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>90</fanmentions>
+</row>
+<row _id="235" _uuid="5F34A955-B995-4C63-88F5-3236F91A1D66" _position="235" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/235">
+<date_start>2012-02-26T00:00:00</date_start>
+<date_end>2012-03-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>617</fanmentions>
+</row>
+<row _id="236" _uuid="BD63219B-53D7-4BFF-81E0-B9D099D95F83" _position="236" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/236">
+<date_start>2012-02-26T00:00:00</date_start>
+<date_end>2012-03-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>13967</fanmentions>
+</row>
+<row _id="237" _uuid="D5B20BD5-A012-49A1-AD55-59C099C138BC" _position="237" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/237">
+<date_start>2012-02-26T00:00:00</date_start>
+<date_end>2012-03-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>14208</fanmentions>
+</row>
+<row _id="238" _uuid="DF216AA8-24DF-4B40-9F68-41568AC527C0" _position="238" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/238">
+<date_start>2012-02-26T00:00:00</date_start>
+<date_end>2012-03-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>28175</fanmentions>
+</row>
+<row _id="239" _uuid="C9959BB9-932A-4D5A-944D-A54F05E5590A" _position="239" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/239">
+<date_start>2012-02-26T00:00:00</date_start>
+<date_end>2012-03-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>45</fanmentions>
+</row>
+<row _id="240" _uuid="B0F4A657-D80E-4DFC-BA6A-BC58418FA4FC" _position="240" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/240">
+<date_start>2012-02-26T00:00:00</date_start>
+<date_end>2012-03-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>194</fanmentions>
+</row>
+<row _id="241" _uuid="3601D496-B290-4D59-B65F-2E7B9A2AD1EF" _position="241" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/241">
+<date_start>2012-02-26T00:00:00</date_start>
+<date_end>2012-03-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>8</fanmentions>
+</row>
+<row _id="242" _uuid="FFAECB6B-CEBC-4F32-8B3A-AEFF9BC4AC32" _position="242" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/242">
+<date_start>2012-02-26T00:00:00</date_start>
+<date_end>2012-03-03T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>12</fanmentions>
+</row>
+<row _id="244" _uuid="A297C2FD-CAA5-40F7-8EF0-CF343C34BB87" _position="244" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/244">
+<date_start>2012-03-04T00:00:00</date_start>
+<date_end>2012-03-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>14141</fanmentions>
+</row>
+<row _id="245" _uuid="039A1526-148E-498B-AA79-7607C0674F00" _position="245" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/245">
+<date_start>2012-03-04T00:00:00</date_start>
+<date_end>2012-03-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>399</fanmentions>
+</row>
+<row _id="246" _uuid="9BE72CFF-E6D2-44C5-AA6C-57E0712B3C46" _position="246" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/246">
+<date_start>2012-03-04T00:00:00</date_start>
+<date_end>2012-03-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>14354</fanmentions>
+</row>
+<row _id="247" _uuid="8E3E98BD-15EF-4C62-B7F3-EAEB709D5880" _position="247" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/247">
+<date_start>2012-03-04T00:00:00</date_start>
+<date_end>2012-03-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>27</fanmentions>
+</row>
+<row _id="248" _uuid="1BDA2B21-EF33-4D36-B255-44DDB06B7BF5" _position="248" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/248">
+<date_start>2012-03-04T00:00:00</date_start>
+<date_end>2012-03-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>28495</fanmentions>
+</row>
+<row _id="249" _uuid="A42196C0-269E-451C-8309-574A3D42B04A" _position="249" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/249">
+<date_start>2012-03-04T00:00:00</date_start>
+<date_end>2012-03-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>146</fanmentions>
+</row>
+<row _id="250" _uuid="0AA7FED5-6A17-43C6-83B2-C4CC26C0A809" _position="250" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/250">
+<date_start>2012-03-04T00:00:00</date_start>
+<date_end>2012-03-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>7</fanmentions>
+</row>
+<row _id="251" _uuid="B1038C44-4BF8-4D6C-8FF8-0C62FDF2FE5B" _position="251" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/251">
+<date_start>2012-03-04T00:00:00</date_start>
+<date_end>2012-03-10T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>6</fanmentions>
+</row>
+<row _id="253" _uuid="E482175A-F563-46F3-8017-33581E48223F" _position="253" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/253">
+<date_start>2012-03-18T00:00:00</date_start>
+<date_end>2012-03-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>14417</fanmentions>
+</row>
+<row _id="254" _uuid="FFA5ABBC-B9CB-45F8-8219-DC35998C10A0" _position="254" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/254">
+<date_start>2012-03-18T00:00:00</date_start>
+<date_end>2012-03-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>29025</fanmentions>
+</row>
+<row _id="255" _uuid="A01F51F0-ED96-489A-8809-20041098F8F3" _position="255" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/255">
+<date_start>2012-03-18T00:00:00</date_start>
+<date_end>2012-03-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>48</fanmentions>
+</row>
+<row _id="256" _uuid="F0680E35-341B-4024-B2AC-CDF51C92DDF8" _position="256" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/256">
+<date_start>2012-03-18T00:00:00</date_start>
+<date_end>2012-03-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>14608</fanmentions>
+</row>
+<row _id="257" _uuid="B2017169-A88B-4BEE-9E90-EC6D7E1DA750" _position="257" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/257">
+<date_start>2012-03-18T00:00:00</date_start>
+<date_end>2012-03-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>439</fanmentions>
+</row>
+<row _id="258" _uuid="06210BFE-63D8-423D-90A6-E767AAD51998" _position="258" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/258">
+<date_start>2012-03-18T00:00:00</date_start>
+<date_end>2012-03-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>11</fanmentions>
+</row>
+<row _id="259" _uuid="919668C7-A37A-4173-8327-F23E7349B599" _position="259" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/259">
+<date_start>2012-03-18T00:00:00</date_start>
+<date_end>2012-03-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>143</fanmentions>
+</row>
+<row _id="260" _uuid="22473D5A-CEE5-44D6-9813-005A22A315BB" _position="260" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/260">
+<date_start>2012-03-18T00:00:00</date_start>
+<date_end>2012-03-24T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>9</fanmentions>
+</row>
+<row _id="262" _uuid="AF7B8F3B-B449-43F7-ADEB-FCBF86E9DAA1" _position="262" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/262">
+<date_start>2012-03-25T00:00:00</date_start>
+<date_end>2012-03-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>29361</fanmentions>
+</row>
+<row _id="263" _uuid="234C11AE-778E-4B26-A12D-472FE59159F5" _position="263" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/263">
+<date_start>2012-03-25T00:00:00</date_start>
+<date_end>2012-03-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>93</fanmentions>
+</row>
+<row _id="264" _uuid="9CD645C3-D8C0-469D-8FCC-5FFDD3AE8321" _position="264" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/264">
+<date_start>2012-03-25T00:00:00</date_start>
+<date_end>2012-03-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>14749</fanmentions>
+</row>
+<row _id="265" _uuid="B6F5C4CF-CBC1-4D9F-BF62-5639485C216A" _position="265" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/265">
+<date_start>2012-03-25T00:00:00</date_start>
+<date_end>2012-03-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>14612</fanmentions>
+</row>
+<row _id="266" _uuid="A2A9A8E5-AE9D-42ED-BDC6-63B9E7E1E43B" _position="266" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/266">
+<date_start>2012-03-25T00:00:00</date_start>
+<date_end>2012-03-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>534</fanmentions>
+</row>
+<row _id="267" _uuid="DC6DC5A8-AD25-4480-81D7-CE06302AD80B" _position="267" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/267">
+<date_start>2012-03-25T00:00:00</date_start>
+<date_end>2012-03-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>184</fanmentions>
+</row>
+<row _id="268" _uuid="F5E39976-5F95-43D6-B5C6-A4B52310D0AB" _position="268" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/268">
+<date_start>2012-03-25T00:00:00</date_start>
+<date_end>2012-03-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>4</fanmentions>
+</row>
+<row _id="269" _uuid="085CCF70-F351-4443-BD6F-9489806A6090" _position="269" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/269">
+<date_start>2012-03-25T00:00:00</date_start>
+<date_end>2012-03-31T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>13</fanmentions>
+</row>
+<row _id="271" _uuid="F3CCD17D-DABC-443F-83FD-5121DF36F552" _position="271" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/271">
+<date_start>2012-04-01T00:00:00</date_start>
+<date_end>2012-04-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>29611</fanmentions>
+</row>
+<row _id="272" _uuid="D1F8DAA0-60DD-4CB9-9811-E41ED40BDB22" _position="272" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/272">
+<date_start>2012-04-01T00:00:00</date_start>
+<date_end>2012-04-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>636</fanmentions>
+</row>
+<row _id="273" _uuid="FA106AE9-3C85-4A84-89E2-A2DCFF854BF1" _position="273" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/273">
+<date_start>2012-04-01T00:00:00</date_start>
+<date_end>2012-04-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>39</fanmentions>
+</row>
+<row _id="274" _uuid="EDE91270-0571-475D-B442-422A64704F65" _position="274" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/274">
+<date_start>2012-04-01T00:00:00</date_start>
+<date_end>2012-04-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>14740</fanmentions>
+</row>
+<row _id="275" _uuid="B98543E2-D2D8-4356-9684-3557FE52FB9A" _position="275" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/275">
+<date_start>2012-04-01T00:00:00</date_start>
+<date_end>2012-04-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>14871</fanmentions>
+</row>
+<row _id="276" _uuid="D287D34B-E866-43A8-BE6C-E37F265D6C79" _position="276" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/276">
+<date_start>2012-04-01T00:00:00</date_start>
+<date_end>2012-04-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>107</fanmentions>
+</row>
+<row _id="277" _uuid="BA248202-E830-4663-984A-DCD6D5C6BC85" _position="277" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/277">
+<date_start>2012-04-01T00:00:00</date_start>
+<date_end>2012-04-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>4</fanmentions>
+</row>
+<row _id="278" _uuid="A7A2C61A-285B-4420-9DE0-99F1197CE190" _position="278" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/278">
+<date_start>2012-04-01T00:00:00</date_start>
+<date_end>2012-04-07T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>10</fanmentions>
+</row>
+<row _id="280" _uuid="FF202B1B-D1E8-4193-A9BD-08BFDDDCBADA" _position="280" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/280">
+<date_start>2012-04-08T00:00:00</date_start>
+<date_end>2012-04-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>29884</fanmentions>
+</row>
+<row _id="281" _uuid="290D7595-6CF5-44AE-A9D8-66F77DE06E12" _position="281" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/281">
+<date_start>2012-04-08T00:00:00</date_start>
+<date_end>2012-04-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>474</fanmentions>
+</row>
+<row _id="282" _uuid="BD932AF2-A0B5-4B51-A2D8-8DA4B1340B59" _position="282" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/282">
+<date_start>2012-04-08T00:00:00</date_start>
+<date_end>2012-04-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>64</fanmentions>
+</row>
+<row _id="283" _uuid="37640262-8E57-4FF1-A294-D1C7B84B1717" _position="283" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/283">
+<date_start>2012-04-08T00:00:00</date_start>
+<date_end>2012-04-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>14876</fanmentions>
+</row>
+<row _id="284" _uuid="CF520727-3314-4FFC-A36B-BC19716A1216" _position="284" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/284">
+<date_start>2012-04-08T00:00:00</date_start>
+<date_end>2012-04-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>15008</fanmentions>
+</row>
+<row _id="285" _uuid="AA8213C1-F1F7-4D3A-A615-D3BD2EB39107" _position="285" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/285">
+<date_start>2012-04-08T00:00:00</date_start>
+<date_end>2012-04-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>134</fanmentions>
+</row>
+<row _id="286" _uuid="2F8F9EE8-13B7-4BBF-8B1B-D9B1D87A1B7F" _position="286" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/286">
+<date_start>2012-04-08T00:00:00</date_start>
+<date_end>2012-04-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>5</fanmentions>
+</row>
+<row _id="287" _uuid="D36D5F23-A4D3-4EC5-84CF-F4E62B32AD35" _position="287" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/287">
+<date_start>2012-04-08T00:00:00</date_start>
+<date_end>2012-04-14T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>9</fanmentions>
+</row>
+<row _id="289" _uuid="5C8E267C-11EA-4699-B2FD-E6EBFDC0F713" _position="289" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/289">
+<date_start>2012-04-22T00:00:00</date_start>
+<date_end>2012-04-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>841</fanmentions>
+</row>
+<row _id="290" _uuid="142C2862-0315-4935-9564-3CC44BD95CFA" _position="290" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/290">
+<date_start>2012-04-22T00:00:00</date_start>
+<date_end>2012-04-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>30601</fanmentions>
+</row>
+<row _id="291" _uuid="F27F4A6A-DC54-45C6-A974-1D09383FD629" _position="291" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/291">
+<date_start>2012-04-22T00:00:00</date_start>
+<date_end>2012-04-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>78</fanmentions>
+</row>
+<row _id="292" _uuid="4933142A-8DB9-4D9A-BCFB-37673A1C00A0" _position="292" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/292">
+<date_start>2012-04-22T00:00:00</date_start>
+<date_end>2012-04-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>15221</fanmentions>
+</row>
+<row _id="293" _uuid="5859F50E-87AD-4DCE-AC57-7C2DC5B2ABD0" _position="293" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/293">
+<date_start>2012-04-22T00:00:00</date_start>
+<date_end>2012-04-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>15380</fanmentions>
+</row>
+<row _id="294" _uuid="7A9F4B07-0284-4FB1-8916-C31A0E826474" _position="294" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/294">
+<date_start>2012-04-22T00:00:00</date_start>
+<date_end>2012-04-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>137</fanmentions>
+</row>
+<row _id="295" _uuid="8AF0BBC4-E727-4063-BCC6-37ABBB3155E9" _position="295" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/295">
+<date_start>2012-04-22T00:00:00</date_start>
+<date_end>2012-04-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>9</fanmentions>
+</row>
+<row _id="296" _uuid="54D8A814-0821-4045-8089-5BFD438E0E1D" _position="296" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/296">
+<date_start>2012-04-22T00:00:00</date_start>
+<date_end>2012-04-28T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>8</fanmentions>
+</row>
+<row _id="298" _uuid="7DAA0A09-E575-43AC-9BFA-1EBF3049CAB6" _position="298" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/298">
+<date_start>2012-05-13T00:00:00</date_start>
+<date_end>2012-05-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>31814</fanmentions>
+</row>
+<row _id="299" _uuid="627945F5-9A59-496A-806C-9DDC6FC008F7" _position="299" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/299">
+<date_start>2012-05-13T00:00:00</date_start>
+<date_end>2012-05-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>15688</fanmentions>
+</row>
+<row _id="300" _uuid="B31D1A2F-7C77-4AF8-8CD2-FA74B3F68A6E" _position="300" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/300">
+<date_start>2012-05-13T00:00:00</date_start>
+<date_end>2012-05-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>629</fanmentions>
+</row>
+<row _id="301" _uuid="39033EFD-C7C4-46C9-AC5A-E405E6068342" _position="301" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/301">
+<date_start>2012-05-13T00:00:00</date_start>
+<date_end>2012-05-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>57</fanmentions>
+</row>
+<row _id="302" _uuid="985DC0D2-48C3-4A0A-9EAC-D109138365C0" _position="302" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/302">
+<date_start>2012-05-13T00:00:00</date_start>
+<date_end>2012-05-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>16126</fanmentions>
+</row>
+<row _id="303" _uuid="F95931EF-FC8B-4D8A-A8CE-2166EDEB3E49" _position="303" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/303">
+<date_start>2012-05-13T00:00:00</date_start>
+<date_end>2012-05-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>13</fanmentions>
+</row>
+<row _id="304" _uuid="8D9A0420-2012-4DEE-A911-757DF89D8B8E" _position="304" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/304">
+<date_start>2012-05-13T00:00:00</date_start>
+<date_end>2012-05-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>10</fanmentions>
+</row>
+<row _id="305" _uuid="331047B9-E3C4-45A3-BDCC-906586CEAD8A" _position="305" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/305">
+<date_start>2012-05-13T00:00:00</date_start>
+<date_end>2012-05-19T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>247</fanmentions>
+</row>
+<row _id="307" _uuid="E1066123-2336-4A29-A883-EF9A9984EB7B" _position="307" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/307">
+<date_start>2012-06-03T00:00:00</date_start>
+<date_end>2012-06-09T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>16251</fanmentions>
+</row>
+<row _id="308" _uuid="4C8C825D-29A5-474C-95BE-58C557C4B753" _position="308" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/308">
+<date_start>2012-06-03T00:00:00</date_start>
+<date_end>2012-06-09T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>29</fanmentions>
+</row>
+<row _id="309" _uuid="619D933E-88E9-45E5-89A0-B0F139C7BF30" _position="309" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/309">
+<date_start>2012-06-03T00:00:00</date_start>
+<date_end>2012-06-09T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>16632</fanmentions>
+</row>
+<row _id="310" _uuid="1CC8887D-D260-4AC5-81D7-9648FCB9CA61" _position="310" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/310">
+<date_start>2012-06-03T00:00:00</date_start>
+<date_end>2012-06-09T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>32883</fanmentions>
+</row>
+<row _id="311" _uuid="8AEEF714-4FB3-4E38-92C1-DC87A320A069" _position="311" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/311">
+<date_start>2012-06-03T00:00:00</date_start>
+<date_end>2012-06-09T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>337</fanmentions>
+</row>
+<row _id="312" _uuid="02EDB176-76D5-45DD-823C-045B5F935A9C" _position="312" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/312">
+<date_start>2012-06-03T00:00:00</date_start>
+<date_end>2012-06-09T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>3</fanmentions>
+</row>
+<row _id="313" _uuid="5F9F7CD1-5F37-4212-8A41-C92B4826ED15" _position="313" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/313">
+<date_start>2012-06-03T00:00:00</date_start>
+<date_end>2012-06-09T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>3</fanmentions>
+</row>
+<row _id="314" _uuid="5651B373-F194-47A5-9ADB-55056E915089" _position="314" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/314">
+<date_start>2012-06-03T00:00:00</date_start>
+<date_end>2012-06-09T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>40</fanmentions>
+</row>
+<row _id="316" _uuid="4FD1D36D-373E-4B82-98B0-6C887755C9D5" _position="316" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/316">
+<date_start>2012-06-10T00:00:00</date_start>
+<date_end>2012-06-16T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>42</fanmentions>
+</row>
+<row _id="317" _uuid="48B851FA-C391-4A33-8BD4-935359B0E46B" _position="317" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/317">
+<date_start>2012-06-10T00:00:00</date_start>
+<date_end>2012-06-16T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>16435</fanmentions>
+</row>
+<row _id="318" _uuid="BAE7AE64-5DCC-4BF9-80EF-535E0EE5E3B7" _position="318" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/318">
+<date_start>2012-06-10T00:00:00</date_start>
+<date_end>2012-06-16T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>318</fanmentions>
+</row>
+<row _id="319" _uuid="374BBECC-A08E-4FDE-BDB9-69D51C8A21B7" _position="319" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/319">
+<date_start>2012-06-10T00:00:00</date_start>
+<date_end>2012-06-16T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>33192</fanmentions>
+</row>
+<row _id="320" _uuid="733D8113-F26E-4394-A1BB-E4D5E1164A8D" _position="320" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/320">
+<date_start>2012-06-10T00:00:00</date_start>
+<date_end>2012-06-16T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>16757</fanmentions>
+</row>
+<row _id="321" _uuid="3FFDC0DC-E5E1-4CD6-A9E8-42A3B7ED69BC" _position="321" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/321">
+<date_start>2012-06-10T00:00:00</date_start>
+<date_end>2012-06-16T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>9</fanmentions>
+</row>
+<row _id="322" _uuid="9D80A7CD-2975-4B67-8D77-B08AC0BE1C32" _position="322" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/322">
+<date_start>2012-06-10T00:00:00</date_start>
+<date_end>2012-06-16T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>5</fanmentions>
+</row>
+<row _id="323" _uuid="7F2FD89D-9438-4A45-A286-BB51D8DB3F8C" _position="323" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/323">
+<date_start>2012-06-10T00:00:00</date_start>
+<date_end>2012-06-16T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>124</fanmentions>
+</row>
+<row _id="325" _uuid="3BFC75D8-1955-4E63-B168-48658B527FAC" _position="325" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/325">
+<date_start>2012-06-24T00:00:00</date_start>
+<date_end>2012-06-30T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>social_media_fans</metric>
+<fanmentions>33788</fanmentions>
+</row>
+<row _id="326" _uuid="B80DC71D-8C72-4040-B8E6-AB37AAFB5752" _position="326" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/326">
+<date_start>2012-06-24T00:00:00</date_start>
+<date_end>2012-06-30T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_fans</metric>
+<fanmentions>16989</fanmentions>
+</row>
+<row _id="327" _uuid="362C2FFB-1DAD-4E81-8CCD-E5CEF5996B41" _position="327" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/327">
+<date_start>2012-06-24T00:00:00</date_start>
+<date_end>2012-06-30T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>news_mentions</metric>
+<fanmentions>36</fanmentions>
+</row>
+<row _id="328" _uuid="3310FF19-3535-4979-B98E-1CF7F0B4681A" _position="328" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/328">
+<date_start>2012-06-24T00:00:00</date_start>
+<date_end>2012-06-30T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_followers</metric>
+<fanmentions>16799</fanmentions>
+</row>
+<row _id="329" _uuid="75C9451D-4D5F-4656-B2E3-F872A5708984" _position="329" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/329">
+<date_start>2012-06-24T00:00:00</date_start>
+<date_end>2012-06-30T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>twitter_mentions</metric>
+<fanmentions>469</fanmentions>
+</row>
+<row _id="330" _uuid="4E5F1866-3950-446E-914F-B77AF88B49AA" _position="330" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/330">
+<date_start>2012-06-24T00:00:00</date_start>
+<date_end>2012-06-30T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_likes</metric>
+<fanmentions>202</fanmentions>
+</row>
+<row _id="331" _uuid="CCBFB6BB-AD53-41C9-B75B-F25091209478" _position="331" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/331">
+<date_start>2012-06-24T00:00:00</date_start>
+<date_end>2012-06-30T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_comments</metric>
+<fanmentions>5</fanmentions>
+</row>
+<row _id="332" _uuid="95B27232-1242-460B-A622-E5BC90DA82C4" _position="332" _address="http://info.samhsa.gov/resource/_5zwq-8nhy/332">
+<date_start>2012-06-24T00:00:00</date_start>
+<date_end>2012-06-30T00:00:00</date_end>
+<agency_name>SAMHSA</agency_name>
+<metric>facebook_posts</metric>
+<fanmentions>6</fanmentions>
+</row>
+</row>
+</response>

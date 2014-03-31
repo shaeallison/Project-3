@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Page Title</title>
+</head>
+
+<link href="css/styles.css" rel="stylesheet">
+
+<body>
+    
+<div id="chartdiv"></div>
+
+
+<script>
+
+$(document).ready(function(){
+    
+});
+
+var chart = AmCharts.makeChart("chartdiv", {
+    "type": "serial",
+        "theme": "none",
+    "fontFamily": "headlines",
+    "dataProvider": [{
+        "country": "Michael",
+        "visits": 1384
+    }, {
+        "country": "Jacob",
+        "visits": 1335
+    }, {
+        "country": "Jayden",
+        "visits": 1270
+    }, {
+        "country": "Ethan",
+        "visits": 1253
+    }, {
+        "country": "Mason",
+        "visits": 1219
+    }, {
+        "country": "Joseph",
+        "visits": 1218
+    }, {
+        "country": "Matthew",
+        "visits": 1200
+    }, {
+        "country": "Ryan",
+        "visits": 1136
+    }, {
+        "country": "Liam",
+        "visits": 1095
+    }, {
+        "country": "Daniel",
+        "visits": 1094
+    }],
+    "valueAxes": [{
+        "gridColor":"#FFFFFF",
+		"gridAlpha": 0.2,
+		"dashLength": 0
+    }],
+    "gridAboveGraphs": true,
+    "startDuration": 1,
+    "graphs": [{
+        "balloonText": "[[category]]: <b>[[value]]</b>",
+        "fillAlphas": 0.8,
+        "lineAlpha": 0.2,
+        "type": "column",
+        "lineColor": "#D7FFD0",
+        "valueField": "visits"		
+    }],
+    "chartCursor": {
+        "categoryBalloonEnabled": false,
+        "cursorAlpha": 0,
+        "zoomable": false
+    },
+    "categoryField": "country",
+    "categoryAxis": {
+        "gridPosition": "start",
+        "gridAlpha": 0
+    },
+	"exportConfig":{
+	  "menuTop": 0,
+	  "menuItems": [{
+      "icon": '/lib/3/images/export.png',
+      "format": 'png'	  
+      }]  
+	}
+});
+</script>
+
+<script type="text/javascript" src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+<script type="text/javascript" src="http://www.amcharts.com/lib/3/serial.js"></script>
+<script type="text/javascript" src="http://www.amcharts.com/lib/3/themes/none.js"></script>
+
+    
+    
+  </body>
+</html>
+
+
+
+</body>
+</html>

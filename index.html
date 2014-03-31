@@ -1,0 +1,604 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+
+    <title>NY Baby Names</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/styles.css" rel="stylesheet">
+    <link href="css/demo_table.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    
+   
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <div class="row">
+        <h1 class="title">New York State Baby Names</h1>
+        <p class="lead">This data displays names that have a recorded use of a 100 or more times in 2012</p>
+<br>
+<br>
+
+  <div class="row">
+    <div class="col-md-6">
+		<div id="map" class="new-york"></div>
+			<!-- Rapha‘l JS Map Here -->
+		<p id="country_name"> </p>
+    </div>
+    
+
+    <div class="col-md-4">
+	  <div class="infobox">
+	    <h3 class="infotitle" >Popular Baby Names</h3><p>This map displays the most popular baby names by county
+	    in New York in 2012. The most popular names are defined by the recorded number of babies that were given that name
+	    in each county. 
+	    </p>
+	    <p> New York State Baby names are aggregated and displayed by the year, county or borough where the mother resided as
+	    stated on a New York State or New York City (NYC) birth certificate. </p>
+	    <br>
+	    <br>
+	    <p> *Use the table below to sort and search multiple columns, by holding SHIFT, to narrow the results.</p>
+	  </div>
+	  </div>
+    <div class="col-md-2">
+      <img class="pacifier" src="images/pacifier.png" width="200px">
+    </div>
+    </div>
+  </div>
+	  
+	  
+	  
+	  
+	    <table id="table"></table>
+          <ul><span id="agency_name"></span> </ul>
+          
+
+    
+    
+    <br>
+    
+   
+    <h2> Top Baby Names </h2>
+  
+    <br>
+
+<!-- Nav tabs -->
+    <ul class="nav nav-tabs">
+      <li class="active"><a href="#home" data-toggle="tab">Top Name By County</a></li>
+      <li><a href="#profile" data-toggle="tab">The Top 20</a></li>
+
+    </ul>
+    
+
+
+<!-- Tab panes -->
+    <div class="tab-content">
+      <div class="tab-pane active" id="home"><br><h4>Most Used Names in 2012 by County</h4>
+      <p class="tabtext">Roll over each bar to see the most popular name according to record count in the top 5 highest populated counties in New York in 2012.</p>
+      <br>  <div id="chart1div"></div>	<br></div>
+      
+      <div class="tab-pane" id="profile"><br><div id="container" style="min-width: 1150px; height: 400px; margin: 0 auto"></div><br></div>
+    </div>
+
+<h2> Baby Names Across New York </h2>
+
+<br>
+    
+<!-- Nav tabs -->
+    <ul class="nav nav-tabs">
+      <li class="active"><a href="#boy" data-toggle="tab">Boy</a></li>
+      <li><a href="#girl" data-toggle="tab">Girl</a></li>
+
+
+    </ul>
+    
+<!-- Tab panes -->
+    <div class="tab-content">
+      <div class="tab-pane active" id="boy"><br><p class="tabtext">This data represents the top used baby names across New York as a whole</p><div id="chart2div"></div><br></div>
+      
+      
+      
+      <div class="tab-pane" id="girl"><br><p class="tabtext">This data represents the top used baby names across New York as a whole</p><div id="chart3div"></div><br></div>
+      
+      
+      
+    
+ 
+    
+    </div>    
+    <br>
+    <br>
+    <br>
+    </div><!-- /.container -->   
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.dataTables.min.js"></script>
+    
+    <!-- High charts links -->
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+    <script src="http://code.highcharts.com/modules/exporting.js"></script>
+    
+    <!-- Raphael links -->
+    <script src="js/raphael-min.js"></script>
+    <script src="js/ny_map.js"></script>
+    
+    <!-- amCharts Links -->
+    <script type="text/javascript" src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+    <script type="text/javascript" src="http://www.amcharts.com/lib/3/serial.js"></script>
+    <script type="text/javascript" src="http://www.amcharts.com/lib/3/themes/none.js"></script>
+
+    
+    
+    
+     
+    <script>
+      aaData = new Array;
+      $(document).ready(function() {
+	$("#message").text("DOM Loaded and Ready");
+        startLoadXml();
+	
+		
+      });
+      
+      
+  function startLoadXml() {
+  $("#message").text("loadXML has begun!");
+  $.ajax({
+    type: "GET",
+    url: "popularbabynamesbeginning2012.csv.xml",
+    dataType: "xml",
+    success: parseXml
+  });
+} //close loadXML
+
+
+
+function parseXml(xml)
+{
+  $(xml).find("Table1").each(function(index)
+  {
+  
+    //Builds table data
+    dataArray = new Array;
+    dataArray.push ($(this).find("Year").text(), $(this).find("First_x0020_Name").text(), $(this).find("County").text(), $(this).find("Sex").text(), $(this).find("Count").text());
+    console.log(dataArray[1])
+    aaData.push(dataArray);
+  
+
+
+  });
+  
+  aoColumns = new Array;
+  aoColumns =[{ "sTitle": " Year"}, { "sTitle": " Name"}, { "sTitle": " County"}, { "sTitle": " Sex"}, {"sTitle": " Count"}]
+  console.log(aoColumns);
+  
+  $("#table").html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="example"></table>' );
+
+  
+  $('#table').dataTable( {
+    "aaSorting": [ [4,'desc'], [3,'asc'] ],
+    "aaData": aaData,
+    "aoColumns": aoColumns
+  });
+}
+
+
+
+
+</script>
+    
+<!-- HighCharts JS -->
+
+<script>
+
+  
+$(function () {
+	Highcharts.setOptions({
+	  chart: {
+	    seriesBackgroundColor:'#333',
+	  }
+	});
+        $('#container').highcharts({
+            chart: {
+                type: 'column',
+                margin: [ 50, 50, 100, 80]
+            },
+            title: {
+                text: 'Top 20 Most Popular Baby Names In the state of New York in 2012',
+		style: {
+		  fontFamily: 'headlines',
+		  color: '#FC7C7C',
+		  fontSize: '20px',
+		  
+		}
+            },
+            xAxis: {
+                categories: [
+                    'Jayden',
+                    'Michael',
+                    'Matthew',
+                    'Ethan',
+                    'Jacob',
+                    'Sophia',
+                    'Isabella',
+                    'Joseph',
+                    'Ryan',
+                    'Anthony',
+                    'Aiden',
+                    'Alexander',
+                    'Daniel',
+                    'David',
+                    'Olivia',
+                    'Emma',
+                    'Mason',
+                    'Emily',
+                    'Justin',
+                    'Joshua'
+                ],
+	
+
+                labels: {
+                    rotation: -45,
+                    align: 'right',
+                    style: {
+                        fontSize: '13px',
+                        fontFamily: 'headlines',
+			color: '#333',
+			
+                    }
+                }
+            },
+            yAxis: {
+                min: 0,
+                title: {
+                    text: 'Name Count',
+		    style: {
+		      color: '#FC7C7C',
+		      fontFamily: 'headlines',
+		      textDecoration: 'none',
+		      fontSize: '13px',
+		    }
+                }
+            },
+            legend: {
+                enabled: false
+            },
+            tooltip: {
+                pointFormat: ' <b>{point.y:.1f} babies </b>',
+		style: {
+
+		}
+            },
+            series: [{
+                name: 'Records',
+                data: [756, 723, 702, 671, 631, 608, 552, 549, 532,
+                    510, 481, 418, 397, 394, 376, 357, 340, 312,
+                    297, 269],
+		color: '#FFD0D0',
+                dataLabels: {
+                    enabled: true,
+                    rotation: -90,
+                    color: '#FC7C7C',
+                    align: 'right',
+                    x: 4,
+                    y: 10,
+                    style: {
+                        fontSize: '13px',
+                        fontFamily: 'headlines',
+
+                        
+                    }
+                }
+            }]
+        });
+    });
+
+
+</script>
+
+<!-- tabs -->
+<script>
+  
+$('#myTab a').click(function (e) {
+  e.preventDefault()
+  $(this).tab('show')
+})
+  
+</script>
+
+<!-- tab(amCharts) charts JS -->
+
+<script>
+
+  
+  var chart1 = AmCharts.makeChart("chart1div", {
+    "type": "serial",
+	"theme": "none",
+    "fontFamily": "headlines",
+    "legend": {
+        "horizontalGap": 10,
+        "maxColumns": 1,
+        "position": "right",
+		"useGraphSettings": true,
+		"markerSize": 10
+    },
+    "dataProvider": [{
+        "year": 2012,
+        "Kings": 39808,
+
+    }, {
+        "year": 2012,
+        "Queens": 30415,
+
+    }, {
+        "year": 2012,
+        "Bronx": 22299,
+    }, {
+        "year": 2012,
+        "New York": 20643,
+
+    }, {
+        "year": 2012,
+        "Suffolk": 19668,
+    }],
+    "valueAxes": [{
+        "stackType": "regular",
+        "axisAlpha": 0,
+        "gridAlpha": 0
+    }],
+    "graphs": [{
+        "balloonText": "<b>David</b><br><span style='font-size:14px'><b>273</b></span>",
+	"lineColor": "#F2D0FF",
+        "fillAlphas": 0.8,
+        "labelText": "[[value]]",
+        "lineAlpha": 0.3,
+        "title": "Kings",
+        "type": "column",
+		"color": "#333",
+        "valueField": "Kings",
+    }, {
+        "balloonText": "<b>Jayden</b><br><span style='font-size:14px'> <b>207</b></span>",
+        "fillAlphas": 0.8,
+	"lineColor": "#D7FFD0",
+        "labelText": "[[value]]",
+        "lineAlpha": 0.3,
+        "title": "Queens",
+        "type": "column",
+		"color": "#333",
+        "valueField": "Queens"
+    }, {
+        "balloonText": "<b>Jayden</b><br><span style='font-size:14px'> <b>185</b></span>",
+        "fillAlphas": 0.8,
+	"lineColor": "#FFD0D0",
+        "labelText": "[[value]]",
+        "lineAlpha": 0.3,
+        "title": "Bronx",
+        "type": "column",
+		"color": "#333",
+        "valueField": "Bronx"
+    }, {
+        "balloonText": "<b>Alexander</b><br><span style='font-size:14px'> <b>145</b></span>",
+        "fillAlphas": 0.8,
+	"lineColor": "#FFFFD0",
+        "labelText": "[[value]]",
+        "lineAlpha": 0.3,
+        "title": "New York",
+        "type": "column",
+		"color": "#333",
+        "valueField": "New York"
+    }, {
+        "balloonText": "<b>Michael</b><br><span style='font-size:14px'> <b>159</b></span>",
+        "fillAlphas": 0.8,
+	"lineColor": "#eee",
+        "labelText": "[[value]]",
+        "lineAlpha": 0.3,
+        "title": "Suffolk",
+        "type": "column",
+		"color": "#333",
+        "valueField": "Suffolk"
+    }],
+    "categoryField": "year",
+    "categoryAxis": {
+        "gridPosition": "start",
+        "axisAlpha": 0,
+        "gridAlpha": 0,
+        "position": "left"
+    },
+	"exportConfig":{
+		"menuTop":"20px",
+        "menuRight":"20px",
+        "menuItems": [{
+        "icon": '/lib/3/images/export.png',
+        "format": 'png'	  
+        }]  
+    }
+});
+  
+</script>
+
+<!--Boys Names Tab Chart -->
+
+<script>
+  var chart2 = AmCharts.makeChart("chart2div", {
+    "type": "serial",
+    "theme": "none",
+    "fontFamily": "headlines",
+    "dataProvider": [{
+        "country": "Michael",
+        "visits": 1384
+    }, {
+        "country": "Jacob",
+        "visits": 1335
+    }, {
+        "country": "Jayden",
+        "visits": 1270
+    }, {
+        "country": "Ethan",
+        "visits": 1253
+    }, {
+        "country": "Mason",
+        "visits": 1219
+    }, {
+        "country": "Joseph",
+        "visits": 1218
+    }, {
+        "country": "Matthew",
+        "visits": 1200
+    }, {
+        "country": "Ryan",
+        "visits": 1136
+    }, {
+        "country": "Liam",
+        "visits": 1095
+    }, {
+        "country": "Daniel",
+        "visits": 1094
+    }],
+    "valueAxes": [{
+        "gridColor":"#FFFFFF",
+		"gridAlpha": 0.2,
+		"dashLength": 0
+    }],
+    "gridAboveGraphs": true,
+    "startDuration": 1,
+    "graphs": [{
+        "balloonText": "[[category]]: <b>[[value]]</b>",
+        "fillAlphas": 0.8,
+        "lineAlpha": 0.2,
+        "type": "column",
+        "lineColor": "#D7FFD0",
+        "valueField": "visits"		
+    }],
+    "chartCursor": {
+        "categoryBalloonEnabled": false,
+        "cursorAlpha": 0,
+        "zoomable": false
+    },
+    "rotate": true,
+    "categoryField": "country",
+    "categoryAxis": {
+        "gridPosition": "start",
+        "gridAlpha": 0
+    },
+	"exportConfig":{
+	  "menuTop": 0,
+	  "menuItems": [{
+      "icon": '/lib/3/images/export.png',
+      "format": 'png'	  
+      }]  
+	}
+});
+  
+</script>
+
+
+<!--Girls Names Tab Chart -->
+
+<script>
+  var chart3 = AmCharts.makeChart("chart3div", {
+    "type": "serial",
+    "theme": "none",
+    "fontFamily": "headlines",
+    "dataProvider": [{
+        "country": "Sophia",
+        "visits": 1406
+    }, {
+        "country": "Isabella",
+        "visits": 1270
+    }, {
+        "country": "Emma",
+        "visits": 1226
+    }, {
+        "country": "Olivia",
+        "visits": 1135
+    }, {
+        "country": "Ava",
+        "visits": 968
+    }, {
+        "country": "Emily",
+        "visits": 920
+    }, {
+        "country": "Madison",
+        "visits": 842
+    }, {
+        "country": "Mia",
+        "visits": 839
+    }, {
+        "country": "Abigail",
+        "visits": 757
+    }, {
+        "country": "Chloe",
+        "visits": 666
+    }],
+    "valueAxes": [{
+        "gridColor":"#FFFFFF",
+		"gridAlpha": 0.2,
+		"dashLength": 0
+    }],
+    "gridAboveGraphs": true,
+    "startDuration": 1,
+    "graphs": [{
+        "balloonText": "[[category]]: <b>[[value]]</b>",
+        "fillAlphas": 0.8,
+        "lineAlpha": 0.2,
+        "type": "column",
+        "lineColor": "#F2D0FF",
+        "valueField": "visits"		
+    }],
+    "chartCursor": {
+        "categoryBalloonEnabled": false,
+        "cursorAlpha": 0,
+        "zoomable": false
+    },
+    "rotate": true,
+    "categoryField": "country",
+    "categoryAxis": {
+        "gridPosition": "start",
+        "gridAlpha": 0
+    },
+	"exportConfig":{
+	  "menuTop": 0,
+	  "menuItems": [{
+      "icon": '/lib/3/images/export.png',
+      "format": 'png'	  
+      }]  
+	}
+});
+  
+</script>
+
+
+
+    
+    
+  </body>
+</html>
